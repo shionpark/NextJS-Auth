@@ -3,7 +3,7 @@
 ### 사용 기술
 
 - React Hook Form
-  - Prisma
+- Prisma
 - SWR
 - API Routes
 - iron-session
